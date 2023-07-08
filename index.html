@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <label for="">Name</label>
+        <input type="text" id="kk">
+        <input type="submit">
+    </form>
+</body>
+<script>
+    let fetchData = async(name) =>{
+        try{
+            let response = await fetch("https://babablacksheep.onrender.com/posts",{
+                method: "POST",
+                headers: {
+                    "Content-type": "application/json"
+                },
+                body: JSON.stringify({
+                    "id": 19,
+                    "title":"json-server",
+                    "author":name
+                })
+            })
+            let data = await response.json()
+            console.log(data)
+        }catch(e){
+            console.log(e)
+        }
+    }
+    document.querySelector("form").addEventListener("submit",()=>{
+        event.preventDefault()
+        let name = document.querySelector("#kk").value
+        fetchData(name)
+    })
+</script>
+</html>

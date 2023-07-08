@@ -12,5 +12,13 @@
       "body": "some comment",
       "postId": 1
     }
+  ],
+  "place_data": [
+    {
+      "id": 1,
+      "name": "Taj Mahal",
+      "url": "https://cdn1.goibibo.com/voy_mmt/t_g/htl-imgs/201902191131081865-1db1acec611411e9bc290242ac110002.jpg",
+      "about": "2 x Bed in 40 Bed Mixed AC Dormitory Room with Shared Bathroom"
+    }
   ]
 }
