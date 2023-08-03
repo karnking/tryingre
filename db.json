@@ -11,7 +11,7 @@
         "tech": ["React", "Redux", "JS", "HTML", "CSS"]
       }
     ]
-  }
+  },
   "todos": [
     {
       "title": "Learn HTML",
@@ -62,20 +62,6 @@
       "id": 10,
       "status": false,
       "title": "Learn Angular"
-    }
-  ],
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
     }
   ],
   "place_data": [
