@@ -1,10 +1,15 @@
 {
-  "portflio": {
+  "portfolio": {
     "basic-info": {
-    
+      "name":"Karan Kotai"
     },
     "projects": [
-      
+      {
+        "title":"Cryptosphere",
+        "link":"https://karnking.github.io/Cryptosphere/",
+        "desc": "Cryptocurrency website designed to be your ultimate guide and resource in the exciting world of digital assets",
+        "tech": ["React", "Redux", "JS", "HTML", "CSS"]
+      }
     ]
   }
   "todos": [
