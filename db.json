@@ -14,7 +14,7 @@
   },
   "todo":[
     {
-      "title": "Learn React-Redux",
+      "title": "Learn React Redux",
       "details": "Redux is an open-source JavaScript library for managing and centralizing application state. It is most commonly used with libraries such as React or Angular for building user interfaces.",
       "status": true,
       "time": 1691142813287,
