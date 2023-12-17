@@ -1,18 +1,24 @@
 {
   "portfolio": {
     "basic-info": {
-      "name":"Karan Kotai"
+      "name": "Karan Kotai"
     },
     "projects": [
       {
-        "title":"Cryptosphere",
-        "link":"https://karnking.github.io/Cryptosphere/",
+        "title": "Cryptosphere",
+        "link": "https://karnking.github.io/Cryptosphere/",
         "desc": "Cryptocurrency website designed to be your ultimate guide and resource in the exciting world of digital assets",
-        "tech": ["React", "Redux", "JS", "HTML", "CSS"]
+        "tech": [
+          "React",
+          "Redux",
+          "JS",
+          "HTML",
+          "CSS"
+        ]
       }
     ]
   },
-  "todo":[
+  "todo": [
     {
       "title": "Learn React-Redux",
       "details": "Redux is an open-source JavaScript library for managing and centralizing application state. It is most commonly used with libraries such as React or Angular for building user interfaces.",
@@ -126,7 +132,7 @@
       "id": 1,
       "main_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/d0/a5/47/deluxe-room.jpg?w=1100&h=-1&s=1",
       "secImg": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/35/4b/76/always-hotel-riverview.jpg?w=1200&h=-1&s=1",
-      "places_see_img" : [
+      "places_see_img": [
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/35/4b/76/always-hotel-riverview.jpg?w=1200&h=-1&s=1",
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/35/5c/09/always-hotel-riverview.jpg?w=700&h=-1&s=1",
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/f7/14/23/riverview-hotel.jpg?w=1200&h=-1&s=1",
@@ -136,7 +142,7 @@
       "reviews": 534,
       "address": "Nehru Bridge Corner Near Sakar Vii , Opp Patang Hotel, Ahmedabad 380009 India",
       "stars": 4.5,
-      "about":[
+      "about": [
         "Riverview Hotel is a good choice for travellers looking for a 3 star hotel in Ahmedabad. It is located in Near Nehru Bridge.",
         "From all the 3 Star hotels in Ahmedabad, Riverview Hotel is very much popular among the tourists across the whole India.",
         "A smooth check-in/check-out process, flexible policies and friendly management garner great customer satisfaction for all.",
@@ -155,35 +161,35 @@
       ],
       "phone": "079 66185000",
       "price": 7840,
-      "off":"24",
-      "city":"Ahmedabad",
+      "off": "24",
+      "city": "Ahmedabad",
       "assured": true,
       "extra": "book1",
-      "feedback":[
+      "feedback": [
         {
-          "img":"https://i.pinimg.com/564x/b7/06/e9/b706e9a5e66eccc80836c50267d67192.jpg",
-          "name":"Alex Adams",
-          "date_joined":"July 2023",
-          "stars":"4",
-          "place":"U.S.",
-          "desc1":"I visited the hotel with my family and loved it. The hotel is clean and the staff is courteous.  I especially liked their in house restaurant eatery and had an amazing experience there. ",
-          "desc2":"The food over here is splendid, We had great experience with the staff , manager Manoj and executive manager pawan and anima . Overall it was a great experience."
-      },
+          "img": "https://i.pinimg.com/564x/b7/06/e9/b706e9a5e66eccc80836c50267d67192.jpg",
+          "name": "Alex Adams",
+          "date_joined": "July 2023",
+          "stars": "4",
+          "place": "U.S.",
+          "desc1": "I visited the hotel with my family and loved it. The hotel is clean and the staff is courteous.  I especially liked their in house restaurant eatery and had an amazing experience there. ",
+          "desc2": "The food over here is splendid, We had great experience with the staff , manager Manoj and executive manager pawan and anima . Overall it was a great experience."
+        },
         {
-          "img":"https://images.pexels.com/photos/734753/pexels-photo-734753.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-          "name":"Jignesh Patel",
-          "date_joined":"August 2022",
-          "stars":"5",
-          "place":"India",
-          "desc1":"I visited the hotel with my family and loved it. The hotel is clean and the staff is courteous.  I especially liked their in house restaurant eatery and had an amazing experience there. "
-      }
-    ]
+          "img": "https://images.pexels.com/photos/734753/pexels-photo-734753.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+          "name": "Jignesh Patel",
+          "date_joined": "August 2022",
+          "stars": "5",
+          "place": "India",
+          "desc1": "I visited the hotel with my family and loved it. The hotel is clean and the staff is courteous.  I especially liked their in house restaurant eatery and had an amazing experience there. "
+        }
+      ]
     },
     {
       "id": 2,
-      "city":"Ahmedabad",
+      "city": "Ahmedabad",
       "main_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/34/5f/8d/lobby.jpg?w=1200&h=-1&s=1",
-      "places_see_img" : [
+      "places_see_img": [
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/5d/90/47/courtyard-by-marriott.jpg?w=1200&h=-1&s=1",
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/34/5f/a6/fitness-center.jpg?w=1200&h=-1&s=1",
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/34/5f/a4/momo-cafe.jpg?w=1200&h=-1&s=1",
@@ -206,32 +212,32 @@
       ],
       "phone": "079 52185000",
       "price": 6504,
-      "off":"30",
-      "feedback":[
+      "off": "30",
+      "feedback": [
         {
-          "img":"https://i.pinimg.com/564x/b7/06/e9/b706e9a5e66eccc80836c50267d67192.jpg",
-          "name":"Alex Adams",
-          "date_joined":"July 2023",
-          "stars":"4",
-          "place":"U.S.",
-          "desc1":"I visited the hotel with my family and loved it. The hotel is clean and the staff is courteous.  I especially liked their in house restaurant eatery and had an amazing experience there. ",
-          "desc2":"The food over here is splendid, We had great experience with the staff , manager Manoj and executive manager pawan and anima . Overall it was a great experience."
-      },
+          "img": "https://i.pinimg.com/564x/b7/06/e9/b706e9a5e66eccc80836c50267d67192.jpg",
+          "name": "Alex Adams",
+          "date_joined": "July 2023",
+          "stars": "4",
+          "place": "U.S.",
+          "desc1": "I visited the hotel with my family and loved it. The hotel is clean and the staff is courteous.  I especially liked their in house restaurant eatery and had an amazing experience there. ",
+          "desc2": "The food over here is splendid, We had great experience with the staff , manager Manoj and executive manager pawan and anima . Overall it was a great experience."
+        },
         {
-          "img":"https://images.pexels.com/photos/734753/pexels-photo-734753.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-          "name":"Jignesh Patel",
-          "date_joined":"August 2022",
-          "stars":"5",
-          "place":"India",
-          "desc1":"I visited the hotel with my family and loved it. The hotel is clean and the staff is courteous.  I especially liked their in house restaurant eatery and had an amazing experience there. "
-      }
-    ]
+          "img": "https://images.pexels.com/photos/734753/pexels-photo-734753.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+          "name": "Jignesh Patel",
+          "date_joined": "August 2022",
+          "stars": "5",
+          "place": "India",
+          "desc1": "I visited the hotel with my family and loved it. The hotel is clean and the staff is courteous.  I especially liked their in house restaurant eatery and had an amazing experience there. "
+        }
+      ]
     },
     {
       "id": 3,
-      "city":"Ahmedabad",
+      "city": "Ahmedabad",
       "main_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/b8/22/0c/hotel-facade.jpg?w=1200&h=1200",
-      "places_see_img" : [
+      "places_see_img": [
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/20/6d/amp.jpg?w=1200&h=-1&s=1",
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/20/6e/amp.jpg?w=1200&h=-1&s=1",
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/29/29/20/6c/amp.jpg?w=1200&h=-1&s=1",
@@ -254,33 +260,33 @@
       ],
       "phone": "079 92185541",
       "price": 5790,
-      "off":"35",
-      "feedback":[
+      "off": "35",
+      "feedback": [
         {
-          "img":"https://i.pinimg.com/564x/b7/06/e9/b706e9a5e66eccc80836c50267d67192.jpg",
-          "name":"Alex Adams",
-          "date_joined":"July 2023",
-          "stars":"4",
-          "place":"U.S.",
-          "desc1":"I visited the hotel with my family and loved it. The hotel is clean and the staff is courteous.  I especially liked their in house restaurant eatery and had an amazing experience there. ",
-          "desc2":"The food over here is splendid, We had great experience with the staff , manager Manoj and executive manager pawan and anima . Overall it was a great experience."
-      },
+          "img": "https://i.pinimg.com/564x/b7/06/e9/b706e9a5e66eccc80836c50267d67192.jpg",
+          "name": "Alex Adams",
+          "date_joined": "July 2023",
+          "stars": "4",
+          "place": "U.S.",
+          "desc1": "I visited the hotel with my family and loved it. The hotel is clean and the staff is courteous.  I especially liked their in house restaurant eatery and had an amazing experience there. ",
+          "desc2": "The food over here is splendid, We had great experience with the staff , manager Manoj and executive manager pawan and anima . Overall it was a great experience."
+        },
         {
-          "img":"https://images.pexels.com/photos/734753/pexels-photo-734753.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-          "name":"Jignesh Patel",
-          "date_joined":"August 2022",
-          "stars":"5",
-          "place":"India",
-          "desc1":"I visited the hotel with my family and loved it. The hotel is clean and the staff is courteous.  I especially liked their in house restaurant eatery and had an amazing experience there. "
-      }
-    ]
+          "img": "https://images.pexels.com/photos/734753/pexels-photo-734753.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+          "name": "Jignesh Patel",
+          "date_joined": "August 2022",
+          "stars": "5",
+          "place": "India",
+          "desc1": "I visited the hotel with my family and loved it. The hotel is clean and the staff is courteous.  I especially liked their in house restaurant eatery and had an amazing experience there. "
+        }
+      ]
     },
     {
       "id": 4,
-      "city":"Ahmedabad",
-      "category":"HOTEL",
+      "city": "Ahmedabad",
+      "category": "HOTEL",
       "main_img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/4b/1e/70/four-points-by-sheraton.jpg?w=1200&h=-1&s=1",
-      "places_see_img" : [
+      "places_see_img": [
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/4b/1c/fc/four-points-by-sheraton.jpg?w=1200&h=-1&s=1",
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/fb/d4/0c/four-points-by-sheraton.jpg?w=1200&h=-1&s=1",
         "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/4b/1e/4c/four-points-by-sheraton.jpg?w=1200&h=-1&s=1",
@@ -303,33 +309,33 @@
       ],
       "phone": "084463 10595",
       "price": 4399,
-      "off":"27",
-      "feedback":[
+      "off": "27",
+      "feedback": [
         {
-          "img":"https://i.pinimg.com/564x/b7/06/e9/b706e9a5e66eccc80836c50267d67192.jpg",
-          "name":"Alex Adams",
-          "date_joined":"July 2023",
-          "stars":"4",
-          "place":"U.S.",
-          "desc1":"I visited the hotel with my family and loved it. The hotel is clean and the staff is courteous.  I especially liked their in house restaurant eatery and had an amazing experience there. ",
-          "desc2":"The food over here is splendid, We had great experience with the staff , manager Manoj and executive manager pawan and anima . Overall it was a great experience."
-      },
+          "img": "https://i.pinimg.com/564x/b7/06/e9/b706e9a5e66eccc80836c50267d67192.jpg",
+          "name": "Alex Adams",
+          "date_joined": "July 2023",
+          "stars": "4",
+          "place": "U.S.",
+          "desc1": "I visited the hotel with my family and loved it. The hotel is clean and the staff is courteous.  I especially liked their in house restaurant eatery and had an amazing experience there. ",
+          "desc2": "The food over here is splendid, We had great experience with the staff , manager Manoj and executive manager pawan and anima . Overall it was a great experience."
+        },
         {
-          "img":"https://images.pexels.com/photos/734753/pexels-photo-734753.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-          "name":"Jignesh Patel",
-          "date_joined":"August 2022",
-          "stars":"5",
-          "place":"India",
-          "desc1":"I visited the hotel with my family and loved it. The hotel is clean and the staff is courteous.  I especially liked their in house restaurant eatery and had an amazing experience there. "
-      }
-    ]
+          "img": "https://images.pexels.com/photos/734753/pexels-photo-734753.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+          "name": "Jignesh Patel",
+          "date_joined": "August 2022",
+          "stars": "5",
+          "place": "India",
+          "desc1": "I visited the hotel with my family and loved it. The hotel is clean and the staff is courteous.  I especially liked their in house restaurant eatery and had an amazing experience there. "
+        }
+      ]
     },
     {
       "id": 5,
-      "city":"Ahmedabad",
-      "category":"HOTEL",
+      "city": "Ahmedabad",
+      "category": "HOTEL",
       "main_img": "https://cdn1.goibibo.com/voy_ing/t_g/3591864ad68011ecbcc30a58a9feac02.jpg",
-      "places_see_img" : [
+      "places_see_img": [
         "https://cdn1.goibibo.com/voy_ing/t_g/6d2b8462955c11ecbb890a58a9feac02.jpg",
         "https://cdn1.goibibo.com/voy_ing/t_g/241741ded68011ec90340a58a9feac02.jpg",
         "https://cdn1.goibibo.com/voy_ing/t_g/33e9f286dce911ecad6f0a58a9feac02.jpg",
@@ -355,10 +361,10 @@
     },
     {
       "id": 6,
-      "city":"Dubai",
-      "category":"HOTEL",
+      "city": "Dubai",
+      "category": "HOTEL",
       "main_img": "https://cdn1.goibibo.com/voy_mmt/t_g/htl-imgs/202211171603104753-855704ac253011eeabba0a58a9feac02.jpg",
-      "places_see_img" : [
+      "places_see_img": [
         "https://cdn1.goibibo.com/voy_mmt/t_g/htl-imgs/202211171603104753-200133d4253011eeb5d40a58a9feac02.jpg",
         "https://cdn1.goibibo.com/voy_mmt/t_g/htl-imgs/202211171603104753-20bbf192253011eea5ca0a58a9feac02.jpg",
         "https://cdn1.goibibo.com/voy_mmt/t_g/htl-imgs/202211171603104753-20a841ba253011eeb54e0a58a9feac02.jpg",
@@ -384,10 +390,10 @@
     },
     {
       "id": 7,
-      "city":"Dubai",
-      "category":"HOTEL",
+      "city": "Dubai",
+      "category": "HOTEL",
       "main_img": "https://cdn1.goibibo.com/voy_ing/t_g/33f428c2290611e9bba50242ac110002.jpg",
-      "places_see_img" : [
+      "places_see_img": [
         "https://cdn1.goibibo.com/voy_ing/t_g/1f8928ba290611e9b40a0242ac110002.jpg",
         "https://cdn1.goibibo.com/voy_ing/t_g/a0ec07604c6011e9aad90242ac110002.jpg",
         "https://cdn1.goibibo.com/voy_ing/t_g/8eee7aca4c6011e99b440242ac110003.jpg",
@@ -413,10 +419,10 @@
     },
     {
       "id": 8,
-      "city":"Dubai",
-      "category":"HOTEL",
+      "city": "Dubai",
+      "category": "HOTEL",
       "main_img": "https://cdn1.goibibo.com/voy_ing/t_g/eaf36a569bc611e8a5dd0a9df65c8753.jpg",
-      "places_see_img" : [
+      "places_see_img": [
         "https://cdn1.goibibo.com/voy_ing/t_g/de2d2c8a946011e7b4dd025f77df004f.jpg",
         "https://cdn1.goibibo.com/voy_ing/t_g/e8b18f489bc611e8b11d02ca8202b952.jpg",
         "https://cdn1.goibibo.com/voy_ing/t_g/e0807aaa946011e7b5a30a4cef95d023.jpg",
@@ -443,9 +449,9 @@
     {
       "id": 9,
       "city": "Dubai",
-      "category":"HOTEL",
+      "category": "HOTEL",
       "main_img": "https://cdn1.goibibo.com/voy_ing/t_g/1c3c66c897a711ec8b240a58a9feac02.jpg",
-      "places_see_img" : [
+      "places_see_img": [
         "https://cdn1.goibibo.com/voy_ing/t_g/2db812a297a811ec9a340a58a9feac02.jpg",
         "https://cdn1.goibibo.com/voy_mmt/t_g/htl-imgs/201709191419415112-c6e0353a711711eb8dd10242ac110003.jpg",
         "https://cdn1.goibibo.com/voy_ing/t_g/4c5f12e897a611ec9e880a58a9feac02.jpg",
@@ -471,10 +477,10 @@
     },
     {
       "id": 10,
-      "city":"Dubai",
-      "category":"HOTEL",
+      "city": "Dubai",
+      "category": "HOTEL",
       "main_img": "https://cdn1.goibibo.com/voy_ing/t_g/1c3c66c897a711ec8b240a58a9feac02.jpg",
-      "places_see_img" : [
+      "places_see_img": [
         "https://cdn1.goibibo.com/voy_ing/t_g/2db812a297a811ec9a340a58a9feac02.jpg",
         "https://cdn1.goibibo.com/voy_mmt/t_g/htl-imgs/201709191419415112-c6e0353a711711eb8dd10242ac110003.jpg",
         "https://cdn1.goibibo.com/voy_ing/t_g/4c5f12e897a611ec9e880a58a9feac02.jpg",
@@ -501,7 +507,7 @@
     {
       "id": 11,
       "main_img": "https://cdn1.goibibo.com/voy_mmt/t_fs/htl-imgs/202206091532074208-f952e408e7d711ec84870a58a9feac02.jpg",
-      "places_see_img" : [
+      "places_see_img": [
         "https://cdn1.goibibo.com/voy_mmt/t_fs/htl-imgs/202206091532074208-adfcc11c1e1a11eda5780a58a9feac02.jpg",
         "https://cdn1.goibibo.com/voy_mmt/t_fs/htl-imgs/202206091532074208-be614eec1e1a11ed95390a58a9feac02.jpg",
         "https://cdn1.goibibo.com/voy_ing/t_g/7862c45ce7d811ec83320a58a9feac02.jpg",
@@ -511,7 +517,7 @@
       "reviews": 2600,
       "address": "ITC Narmada - A Luxury Collection Hotel No # 104 A, Judges Bunglow Rd, Vastrapur",
       "stars": 4.5,
-      "about":[
+      "about": [
         "ITC Narmada - A Luxury Collection Hotel is a great choice for travellers looking for a 5 star hotel in Ahmedabad. ",
         "This Hotel stands out as one of the highly recommended hotel in Ahmedabad and is recommended by 96% of our guests.",
         "A smooth check-in/check-out process, flexible policies and friendly management garner great customer satisfaction for all.",
@@ -530,33 +536,31 @@
       ],
       "phone": "079 66185000",
       "price": 7840,
-      "off":"24",
-      "city":"Ahmedabad",
+      "off": "24",
+      "city": "Ahmedabad",
       "assured": true,
       "extra": "book1",
-      "feedback":[
+      "feedback": [
         {
-          "img":"https://i.pinimg.com/564x/b7/06/e9/b706e9a5e66eccc80836c50267d67192.jpg",
-          "name":"Alex Adams",
-          "date_joined":"July 2023",
-          "stars":"4",
-          "place":"U.S.",
-          "desc1":"I visited the hotel with my family and loved it. The hotel is clean and the staff is courteous.  I especially liked their in house restaurant eatery and had an amazing experience there. ",
-          "desc2":"The food over here is splendid, We had great experience with the staff , manager Manoj and executive manager pawan and anima . Overall it was a great experience."
-      },
+          "img": "https://i.pinimg.com/564x/b7/06/e9/b706e9a5e66eccc80836c50267d67192.jpg",
+          "name": "Alex Adams",
+          "date_joined": "July 2023",
+          "stars": "4",
+          "place": "U.S.",
+          "desc1": "I visited the hotel with my family and loved it. The hotel is clean and the staff is courteous.  I especially liked their in house restaurant eatery and had an amazing experience there. ",
+          "desc2": "The food over here is splendid, We had great experience with the staff , manager Manoj and executive manager pawan and anima . Overall it was a great experience."
+        },
         {
-          "img":"https://images.pexels.com/photos/734753/pexels-photo-734753.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-          "name":"Jignesh Patel",
-          "date_joined":"August 2022",
-          "stars":"5",
-          "place":"India",
-          "desc1":"I visited the hotel with my family and loved it. The hotel is clean and the staff is courteous.  I especially liked their in house restaurant eatery and had an amazing experience there. "
-      }
-    ]
+          "img": "https://images.pexels.com/photos/734753/pexels-photo-734753.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+          "name": "Jignesh Patel",
+          "date_joined": "August 2022",
+          "stars": "5",
+          "place": "India",
+          "desc1": "I visited the hotel with my family and loved it. The hotel is clean and the staff is courteous.  I especially liked their in house restaurant eatery and had an amazing experience there. "
+        }
+      ]
     }
   ],
-  
-
   "adventures": [
     {
       "id": 1,
@@ -570,7 +574,7 @@
       "travel_style": [
         "Custom",
         "Private",
-        "Group", 
+        "Group",
         "Explorer"
       ],
       "highlights": [
@@ -633,7 +637,7 @@
       "travel_style": [
         "Custom",
         "Private",
-        "Group", 
+        "Group",
         "Explorer"
       ],
       "highlights": [
@@ -696,7 +700,7 @@
       "travel_style": [
         "Custom",
         "Private",
-        "Group", 
+        "Group",
         "Explorer"
       ],
       "highlights": [
@@ -716,7 +720,6 @@
         "https://media1.thrillophilia.com/filestore/2i9tlmn36he0mahxbh3bmcrlqcn1_1539855327_megajump_(2).jpg?w=auto&h=600",
         "https://media1.thrillophilia.com/filestore/x77tbagm4zntn1lfv3unija4kt0w_1627127002_shutterstock_217322836.jpg?w=auto&h=600",
         "https://media.gettyimages.com/id/167650448/photo/koh-phi-phi-krabi-thailand-a-bird-nest-collector-climbs-bamboo-scaffolding-in-viking-cave-the.jpg?s=612x612&w=0&k=20&c=uyTkiPdDkf12JiV8RVwWhzwnYmKBRB_YmbqTo7hTdrA="
-
       ],
       "places_see_name": [
         ""
@@ -760,7 +763,7 @@
       "travel_style": [
         "Custom",
         "Private",
-        "Group", 
+        "Group",
         "Explorer"
       ],
       "highlights": [
@@ -823,7 +826,7 @@
       "travel_style": [
         "Custom",
         "Private",
-        "Group", 
+        "Group",
         "Explorer"
       ],
       "highlights": [
@@ -886,7 +889,7 @@
       "travel_style": [
         "Custom",
         "Private",
-        "Group", 
+        "Group",
         "Explorer"
       ],
       "highlights": [
@@ -937,7 +940,6 @@
         }
       ]
     },
-
     {
       "id": 7,
       "category": "Monuments",
@@ -950,7 +952,7 @@
       "travel_style": [
         "Custom",
         "Private",
-        "Group", 
+        "Group",
         "Explorer"
       ],
       "highlights": [
@@ -1001,7 +1003,6 @@
         }
       ]
     },
-
     {
       "id": 8,
       "category": "Trekking",
@@ -1014,7 +1015,7 @@
       "travel_style": [
         "Custom",
         "Private",
-        "Group", 
+        "Group",
         "Explorer"
       ],
       "highlights": [
@@ -1062,6 +1063,272 @@
         {
           "title": "Experience",
           "ratings": "4.9"
+        }
+      ]
+    }
+  ],
+  "puzzles": [
+    {
+      "title": "Whose Shoes",
+      "desc": "Aditya, Basil, Cecilia, and Dimitri each teach one class at 8:00, 9:00, 10:00, or 11:00. At those times, they each teach algebra, calculus, geometry, or probability. Everybody teaches at a different time, and everybody teaches a different class. For each teacher, we’d like to know *when* they teach and *which course*they teach. Given a set of clues, how can we figure it out?",
+      "hints": [
+        "One of Basil's class and the 9:00 class is calculus and the other is geometry.",
+        "The four classes are Cecilia’s, the 10:00 class, geometry, and probability.",
+        "Aditya’s class is one hour before calculus.",
+        "Calculus is two hours after geometry"
+      ],
+      "options": {
+        "teacher": [
+          "Aditya",
+          "Basil",
+          "Cecilia",
+          "Dimitri"
+        ],
+        "course": [
+          "Probablity",
+          "Geometry",
+          "Calculus",
+          "Algebra"
+        ],
+        "class_time": [
+          "8:00",
+          "9:00",
+          "10:00",
+          "11:00"
+        ]
+      },
+      "ans": [
+        {
+          "teacher": "Aditya",
+          "course": "Probablity",
+          "class_time": "8:00"
+        },
+        {
+          "teacher": "Basil",
+          "course": "Geometry",
+          "class_time": "11:00"
+        },
+        {
+          "teacher": "Cecilia",
+          "course": "Calculus",
+          "class_time": "9:00"
+        },
+        {
+          "teacher": "Dimitri",
+          "course": "Algebra",
+          "class_time": "10:00"
+        }
+      ]
+    },
+    {
+      "title": "Baseball collector",
+      "desc": "Mona sold a number of rare baseball cards at her auction house today. Each featured a different player and came out in a different year. No two cards sold for the same price, or featured people who played the same position. Using only the clues below, match each card to its price, year and player, and determine the player's position.",
+      "hints": [
+        "Daryn Drake's one sold for 50 dollars more than the 1999 item.",
+        "The card that sold for $175 came out in 2015.",
+        "Irv Ingram's card sold for $175",
+        "The 1999 item sold for 100 dollars more than 1987 item.",
+        "The 1999 one, Irv Ingram's card and Eric Estrada's card were all diffrent cards."
+      ],
+      "options": {
+        "players": [
+          "Daryn Drake",
+          "Eric Estrada",
+          "Irv Ingram",
+          "Neddy Norris"
+        ],
+        "years": [
+          "1987",
+          "1999",
+          "2004",
+          "2015"
+        ],
+        "price": [
+          "$125",
+          "$175",
+          "$225",
+          "$275"
+        ]
+      },
+      "ans": [
+        {
+          "players": "Daryn Drake",
+          "years": "1987",
+          "price": "$125"
+        },
+        {
+          "players": "Eric Estrada",
+          "years": "1999",
+          "price": "$175"
+        },
+        {
+          "players": "Irv Ingram",
+          "years": "2004",
+          "price": "$225"
+        },
+        {
+          "players": "Neddy Norris",
+          "years": "2015",
+          "price": "$275"
+        }
+      ]
+    },
+    {
+      "title": "Ally's Marriage",
+      "desc": "Ally's going to get married in a few weeks, and a bunch of her friends have gotten together to discuss what gifts they are getting her for the wedding. Using only the clues below, match each wedding attendee to the gift they purchased, and determine how much they paid and what town they live in.",
+      "hints": [
+        "The friend who gave Ally the toaster is either Pam Powell or the friend who spent $450.",
+        "Kit Kelley is either the attendee who gave Ally the blender or the attendee who spent $400.",
+        "Pam Powell spent $400.",
+        "Jack Jordan spent 25 dollars more than the person who gave Ally the toaster.",
+        "The person who gave Ally the toaster spent 50 dollars less than Kit Kelley.",
+        "Jack Jordan gave Ally the planter."
+      ],
+      "options": {
+        "Attendes": [
+          "Jack Jordan",
+          "Kit Kelley",
+          "Ned Norris",
+          "Pam Powell"
+        ],
+        "Gifts": [
+          "Blender",
+          "laptop",
+          "planter",
+          "toaster"
+        ],
+        "price": [
+          "$400",
+          "$425",
+          "$450",
+          "$475"
+        ]
+      },
+      "ans": [
+        {
+          "Attendes": "Jack Jordan",
+          "Gifts": "Blender",
+          "price": "$400"
+        },
+        {
+          "Attendes": "Kit Kelley",
+          "Gifts": "laptop",
+          "price": "$475"
+        },
+        {
+          "Attendes": "Ned Norris",
+          "Gifts": "planter",
+          "price": "$425"
+        },
+        {
+          "Attendes": "Pam Powell",
+          "Gifts": "toaster",
+          "price": "$450"
+        }
+      ]
+    },
+    {
+      "title": "3-D Printer",
+      "desc": "Piper Hills Academy recently installed a high-speed 3-D printer in its technology lab, and several students were given an opportunity this week to use it in order to print items of their own design. Using only the clues below, match each student to the item they created (and its color), and determine how long it took for each item to print.",
+      "hints": [
+        "Irma's design took 10 more minutes to print than the whistle.",
+        "Gary's design was the skull.",
+        "Ollie's piece was the phone case.",
+        "Ollie's piece took somewhat more minutes to print than Irma's piece."
+      ],
+      "options": {
+        "students": [
+          "Gary",
+          "Irma",
+          "Kyle",
+          "Ollie"
+        ],
+        "items": [
+          "cup",
+          "phone case",
+          "skull",
+          "whistle"
+        ],
+        "times": [
+          "10 minutes",
+          "15 minutes",
+          "20 minutes",
+          "25 minutes"
+        ]
+      },
+      "ans": [
+        {
+          "students": "Gary",
+          "items": "skull",
+          "times": "15 minutes"
+        },
+        {
+          "students": "Irma",
+          "items": "cup",
+          "times": "20 minutes"
+        },
+        {
+          "students": "Kyle",
+          "items": "whistle",
+          "times": "10 minutes"
+        },
+        {
+          "students": "Ollie",
+          "items": "phone case",
+          "times": "25 minutes"
+        }
+      ]
+    },
+    {
+      "title": "Minerals Show",
+      "desc": "Bill and Judy always come to the Western Rock and Mineral Show each year to add a few new gem showpieces to their collection. Using only the clues below, match each of their purchases to the claim and state in which it was found, and determine the price of each.",
+      "hints": [
+        "The tourmaline sold for 10 dollars less than the stone found in the Page claim.",
+        "The gem that sold for $810 was found at the Stout claim.",
+        "The gem that sold for $820 is either the gem found in the Beard claim or the blue topaz.",
+        "The corundum was found at the Stout claim.",
+        "The gem that sold for $800 is either the stone found in the Page claim or the zircon."
+      ],
+      "options": {
+        "gems": [
+          "blue topaz",
+          "corundum",
+          "tourmaline",
+          "zircon"
+        ],
+        "claims": [
+          "Beard",
+          "Hopper",
+          "Page",
+          "Stout"
+        ],
+        "price": [
+          "8:00",
+          "9:00",
+          "10:00",
+          "11:00"
+        ]
+      },
+      "ans": [
+        {
+          "gems": "blue topaz",
+          "claims": "Beard",
+          "price": "8:00"
+        },
+        {
+          "gems": "corundum",
+          "claims": "Hopper",
+          "price": "11:00"
+        },
+        {
+          "gems": "tourmaline",
+          "claims": "Page",
+          "price": "9:00"
+        },
+        {
+          "gems": "zircon",
+          "claims": "Stout",
+          "price": "10:00"
         }
       ]
     }
